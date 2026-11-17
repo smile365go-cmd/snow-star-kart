@@ -1,0 +1,6 @@
+.git
+.openai
+node_modules
+*.tar.gz
+*.zip
+kart-check.cjs
